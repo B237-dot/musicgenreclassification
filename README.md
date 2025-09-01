@@ -108,6 +108,4 @@ Visualization of dataset distribution
 
 Confusion matrix comparing predicted vs actual genres
 
-🤝 Contribution
 
-Contributions are welcome! Fork the repo and submit a pull request.
