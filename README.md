@@ -63,7 +63,7 @@ Evaluation using metrics such as accuracy, confusion matrix
 
 Clone the repository:
 
-git clone https://github.com/your-username/mlactivity2.git
+git clone https://github.com/sushmitha/mlactivity2.git
 cd mlactivity2
 
 
